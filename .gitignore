@@ -1,5 +1,10 @@
+# Virtual environments
 .venv/
 venv/
+
+# IDE / tool configs
+.vscode/
+.streamlit/
 
 # Python cache
 __pycache__/
